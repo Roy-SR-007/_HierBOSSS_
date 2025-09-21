@@ -1,12 +1,3 @@
-# =============================================================================
-# Copyright 2025. Somjit Roy and Pritam Dey.
-# This program implements HierBOSSS as developed in:
-#   Roy, S., Dey, P., Pati, D., and Mallick, B.K.
-#   'Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions'.
-# Authors:
-#   Somjit Roy (sroy_123@tamu.edu) and Pritam Dey (pritam.dey@tamu.edu)
-# =============================================================================
-
 ###
 # This R script performs the Metropolis-within-collapsed Gibbs sampling algorithm
 # for sampling from the HierBOSSS-induced posterior
