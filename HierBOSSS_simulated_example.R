@@ -1,12 +1,3 @@
-# =============================================================================
-# Copyright 2025. Somjit Roy and Pritam Dey.
-# This program implements HierBOSSS simulations as developed in:
-#   Roy, S., Dey, P., Pati, D., and Mallick, B.K.
-#   'Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions'.
-# Authors:
-#   Somjit Roy (sroy_123@tamu.edu) and Pritam Dey (pritam.dey@tamu.edu)
-# =============================================================================
-
 # Simulation for the simulated example in Section 5.1
 
 ## Fitting K1 = (2, 3, 4, 5) trees, across 10000 MCMC iterations
