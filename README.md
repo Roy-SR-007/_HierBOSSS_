@@ -11,7 +11,7 @@ This repository holds the source code and implementation of **HierBOSSS** for Ba
 <br><br>
 
 <figure align="center">
-  <img src="assets/intro_pic.png" alt="intro_pic" width="800"/>
+  <img src="assets/intro_pic.png" alt="intro_pic" width="400"/>
   <figcaption><em>HierBOSSS bridges Scientific Machine Learning and Statistical Artificial Intelligence through Bayesian structural learning of scientific expressions.</em></figcaption>
 </figure>
 
