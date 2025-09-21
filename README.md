@@ -10,15 +10,15 @@ This repository holds the source code and implementation of **HierBOSSS** for Ba
 
 <br><br>
 
-<p align="center">
+<figure align="center">
   <img src="assets/intro_pic.png" alt="intro_pic" width="300"/>
-  <em>HierBOSSS bridges Scientific Machine Learning and Statistical Artificial Intelligence through Bayesian structural learning of scientific expressions.</em>
-</p>
+  <figcaption><em>HierBOSSS bridges Scientific Machine Learning and Statistical Artificial Intelligence through Bayesian structural learning of scientific expressions.</em></figcaption>
+</figure>
 
-<p align="center">
+<figure align="center">
   <img src="assets/symbolic_tree_representation.png" alt="symbolic_tree_representation" width="800"/>
-  <em>Figure 1: Symbolic tree representation of scientific expressions.</em>
-</p>
+  <figcaption><em>Figure 1: Symbolic tree representation of scientific expressions.</em></figcaption>
+</figure>
 
 <br><br>
 
