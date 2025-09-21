@@ -1,4 +1,4 @@
-# HierBOSSS: Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions
+# _HierBOSSS_: Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions
 
 
 <p align="center">
