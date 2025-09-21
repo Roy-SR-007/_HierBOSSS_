@@ -14,11 +14,9 @@ This repository holds the source code and implementation of **HierBOSSS** for Ba
   <figure style="display:inline-block; margin:10px;">
     <img src="assets/symbolic_tree_representation.png" alt="symbolic_tree_representation" width="400"/>
   </figure>
-</div>
-
-<div style="text-align:center;">
+  
   <figure style="display:inline-block; margin:10px;">
-    <img src="assets/intro_pic.png" alt="another_picture" width="400"/>
+    <img src="assets/intro_pic.png" alt="another_picture" width="350"/>
   </figure>
 </div>
 
