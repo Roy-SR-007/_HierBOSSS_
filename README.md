@@ -38,7 +38,7 @@ Despite the large-scale popularity of symbolic regression in learning hidden sci
 
 ## Installation and Dependencies
 
-To get started with HierBOSSS, where the initial version (`HierBOSSS v1.0.0`) is programmed using the `R` software, clone the current GitHub repository and install the required dependencies:
+To get started with HierBOSSS, where it is programmed using the `R` software, install the required dependencies:
 
 * `listenv`
 * `dplyr`
