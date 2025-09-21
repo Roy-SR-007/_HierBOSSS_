@@ -11,12 +11,12 @@ This repository holds the source code and implementation of **HierBOSSS** for Ba
 <br><br>
 
 <div style="text-align:center;">
-  <figure style="display:inline-block; margin:10px;">
+  <figure style="display:inline-block; margin:8px;">
     <img src="assets/symbolic_tree_representation.png" alt="symbolic_tree_representation" width="400"/>
     <figcaption><em>Figure 1: Symbolic tree representation of scientific expressions.</em></figcaption>
   </figure>
 
-  <figure style="display:inline-block; margin:10px;">
+  <figure style="display:inline-block; margin:8px;">
     <img src="assets/symbolic_tree_representation.png" alt="another_picture" width="400"/>
     <figcaption><em>Figure 2: Another picture representation.</em></figcaption>
   </figure>
