@@ -1,12 +1,3 @@
-# =============================================================================
-# Copyright 2025. Somjit Roy and Pritam Dey.
-# This program implements HierBOSSS application to Feynman equations as developed in:
-#   Roy, S., Dey, P., Pati, D., and Mallick, B.K.
-#   'Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions'.
-# Authors:
-#   Somjit Roy (sroy_123@tamu.edu) and Pritam Dey (pritam.dey@tamu.edu)
-# =============================================================================
-
 ## F = k * q1q2/r^2: Coulomb's law
 ## F: electric force, k: Coulumb constant, q1,q2: charges, r: distance of separation
 ## k = 1/(4*pi*epsilon)
