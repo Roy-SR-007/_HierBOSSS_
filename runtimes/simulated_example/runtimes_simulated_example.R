@@ -1,13 +1,3 @@
-# =============================================================================
-# Copyright 2025. Somjit Roy and Pritam Dey.
-# This program implements runtimes of HierBOSSS and iBART for the simulated
-# example as developed in:
-#   Roy, S., Dey, P., Pati, D., and Mallick, B.K.
-#   'Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions'.
-# Authors:
-#   Somjit Roy (sroy_123@tamu.edu) and Pritam Dey (pritam.dey@tamu.edu)
-# =============================================================================
-
 ## storing runtimes for HierBOSSS when applied to the simulated example
 ## with K=2 symbolic trees over 25 repetitions
 
