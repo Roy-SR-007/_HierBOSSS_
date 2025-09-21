@@ -1,13 +1,3 @@
-# =============================================================================
-# Copyright 2025. Somjit Roy and Pritam Dey.
-# This program implements the coding for the symbolic tree structures in 
-# HierBOSSS as developed in:
-#   Roy, S., Dey, P., Pati, D., and Mallick, B.K.
-#   'Hierarchical Bayesian Operator-induced Symbolic Regression Trees for Structural Learning of Scientific Expressions'.
-# Authors:
-#   Somjit Roy (sroy_123@tamu.edu) and Pritam Dey (pritam.dey@tamu.edu)
-# =============================================================================
-
 ###
 # R code for symbolic tree structure development and related tree operations
 ###
